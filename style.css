@@ -1,0 +1,6 @@
+ul{
+    color: red;
+    display: flex;
+    width: 41rem;
+    justify-content: space-between;
+}
